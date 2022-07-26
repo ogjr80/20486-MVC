@@ -1,0 +1,6 @@
+27. In the ActorsRazorPages - Microsoft Visual Studio window, in Solution Explorer,r, under Pages, under Actors,
+ expand Index.cshtml, click Index.cshtml.cs, select the following code, and then press Delete.
+     
+public void OnGet()
+{
+ }

@@ -1,0 +1,16 @@
+For Visual Studio 2019
+
+4. In the New Project dialog box, in the result pane, click ASP.NET Core Web App (Model-View-Controller.
+
+INGORE STEP 8
+8. In the New ASP.NET Core Web Application dialog box, in the result pane, click Web Application (Model-View-Controller), and then click OK
+
+Task 3: Add simple functionality
+
+4. select Razor View (not Razor View - Empty)
+
+34. select Razor View (not Razor View - Empty)
+Index page will be located in the Views/Animals folder
+
+40. select Razor View (not Razor View - Empty)
+Detailspage will be located in the Views/Animals folder
